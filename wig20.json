@@ -3,7 +3,7 @@
 "id":47,
 "name":"PKN Orlen",
 "code":"PKN",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/pkn.jpg",
 "price":"62.36",
 "change":"1.53%"
 },
@@ -11,7 +11,7 @@
 "id":48,
 "name":"Alior",
 "code":"ALR",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/alior.png",
 "price":"15.07",
 "change":"0.53%"
 },
@@ -19,7 +19,7 @@
 "id":49,
 "name":"CD Projekt",
 "code":"CDR",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/cdp.jpg",
 "price":"357.60",
 "change":"-1.00%"
 },
@@ -27,7 +27,7 @@
 "id":50,
 "name":"Cyfrowy Polsat",
 "code":"CPL",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/cyfrowy.png",
 "price":"25.56",
 "change":"2.00%"
 },
@@ -35,7 +35,7 @@
 "id":51,
 "name":"Orange Polska",
 "code":"OPL",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/orange.png",
 "price":"6.97",
 "change":"2.20%"
 },
@@ -43,7 +43,7 @@
 "id":52,
 "name":"Pekao",
 "code":"PEO",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/pekao.png",
 "price":"51.98",
 "change":"0.31%"
 },
@@ -51,7 +51,7 @@
 "id":53,
 "name":"PKO BP",
 "code":"PKO",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/pko.jpeg",
 "price":"22.01",
 "change":"0.32%"
 },
@@ -59,7 +59,7 @@
 "id":54,
 "name":"PZU",
 "code":"PZU",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/pzu.jpg",
 "price":"30.28",
 "change":"-1.75%"
 },
@@ -67,7 +67,7 @@
 "id":55,
 "name":"LOTOS",
 "code":"LOS",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/lotos.jpg",
 "price":"62.36",
 "change":"-1.08%"
 },
@@ -75,7 +75,7 @@
 "id":56,
 "name":"CCC",
 "code":"CCC",
-"logo":"https://media.api-sports.io/football/teams/47.png",
+"logo":"img/ccc.png",
 "price":"51.82",
 "change":"11.44%"
 }
